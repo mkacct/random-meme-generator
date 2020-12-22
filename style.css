@@ -1,0 +1,44 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background-color: #181818;
+	color: white;
+	text-align: center;
+	margin: 1em;
+}
+
+button {
+	cursor: pointer;
+	background-color: white;
+	color: black;
+	padding: 0.5em;
+	border: none;
+}
+
+button.another {
+	margin-bottom: 1em;
+}
+
+img.meme {
+	max-width: 50%;
+	max-height: 50%;
+}
+	
+footer {
+	margin-top: 1em;
+}
+
+img.mk {
+	height: 1.5em;
+}
+
+@media (prefers-color-scheme: light) {
+	body {
+		background-color: 
+		color: black;
+	}
+	
+	button {
+		background-color: black;
+		color: white;
+	}
+}
