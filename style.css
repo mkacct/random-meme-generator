@@ -33,7 +33,7 @@ img.mk {
 
 @media (prefers-color-scheme: light) {
 	body {
-		background-color: 
+		background-color: white;
 		color: black;
 	}
 	
